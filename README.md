@@ -12,4 +12,6 @@
 
 1. clone 代码到服务器。请使用 `git clone https://username:password@git.coding.net/xxx/xxx.git` 的方式免密码 clone 代码，防止之后的更新需要密码的问题，不想使用此方法的可以使用 SSH-KEY 部署的方式免密码（此处略）
 
+1. 配置 Coding （或其他平台）的 `webhook`
+
 1. 修改本地代码后提交，检查是否有产生日志和日志信息。
